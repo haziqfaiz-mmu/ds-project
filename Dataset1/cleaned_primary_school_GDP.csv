@@ -2,11 +2,11 @@ Country,Indicator,Sex,Education Level,Wealth Quintile,Residence,Value,Time,GDP
 Australia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,63.93016,2015,47232.62912
 Australia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,65.67903,2015,47232.62912
 Australia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,68,2019,52669.4739
-Austria,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,84,2019,58091.27226
+Austria,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,84,2019,58091.27226
 Austria,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,98.08942,2016,52665.08742
 Austria,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,97.10886,2016,52665.08742
 Austria,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,97.58574,2016,52665.08742
-Belgium,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,80,2019,54269.3895
+Belgium,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,80,2019,54269.3895
 Belgium,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,97.42,2016,48599.20272
 Brazil,Adjusted net attendance rate for children of primary school age,Female,Primary education,Total,Total,93.97827,2019,15422.74859
 Brazil,Adjusted net attendance rate for children of primary school age,Male,Primary education,Total,Total,93.89124,2019,15422.74859
@@ -18,16 +18,16 @@ Brazil,Adjusted net attendance rate for children of primary school age,Total,Pri
 Brazil,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,93.88658,2019,15422.74859
 Brazil,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,93.94349,2019,15422.74859
 Brazil,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,93.93427,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Female,Primary education,Total,Total,96.5,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Male,Primary education,Total,Total,94.6,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Lowest,Total,92.3,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Second,Total,95.9,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Middle,Total,97.3,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Fourth,Total,98,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Highest,Total,98.6,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Total,ural,92.1,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Total,rban,96.2,2019,15422.74859
-Brazil,mpletion rate for children of primary school age,Total,Primary education,Total,Total,95.5,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Female,Primary education,Total,Total,96.5,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Male,Primary education,Total,Total,94.6,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Lowest,Total,92.3,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Second,Total,95.9,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Middle,Total,97.3,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Fourth,Total,98,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Highest,Total,98.6,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Total,ural,92.1,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Total,rban,96.2,2019,15422.74859
+Brazil,Completion rate for children of primary school age,Total,Primary education,Total,Total,95.5,2019,15422.74859
 Brazil,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,0.3738452,2019,15422.74859
 Brazil,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,0.6052542,2019,15422.74859
 Brazil,Out-of-school rate for children of primary school age,Total,Primary education,Lowest,Total,0.6808402,2019,15422.74859
@@ -38,15 +38,15 @@ Brazil,Out-of-school rate for children of primary school age,Total,Primary educa
 Brazil,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,0.6853864,2019,15422.74859
 Brazil,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,0.4531974,2019,15422.74859
 Brazil,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,0.4908559,2019,15422.74859
-Brazil,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,48.74705,2013,15669.13989
-Brazil,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,54.74484,2013,15669.13989
-Brazil,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,51.69619,2013,15669.13989
+Brazil,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,48.74705,2013,15669.13989
+Brazil,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,54.74484,2013,15669.13989
+Brazil,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,51.69619,2013,15669.13989
 Brazil,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,54.23238,2013,15669.13989
 Brazil,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,51.74447,2013,15669.13989
 Brazil,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,53.05256,2013,15669.13989
-Canada,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,67.87034,2015,44670.05438
-Canada,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,71.10169,2015,44670.05438
-Canada,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,69,2019,49286.8116
+Canada,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,67.87034,2015,44670.05438
+Canada,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,71.10169,2015,44670.05438
+Canada,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,69,2019,49286.8116
 Canada,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,96.32409,2016,46472.36877
 Canada,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,95.27137,2016,46472.36877
 Canada,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,95.74039,2016,46472.36877
@@ -55,19 +55,19 @@ Chile,Adjusted net attendance rate for children of primary school age,Male,Prima
 Chile,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,90.2,2017,24402.00537
 Chile,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,88.7,2017,24402.00537
 Chile,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,88.8,2017,24402.00537
-Chile,mpletion rate for children of primary school age,Female,Primary education,Total,Total,96.91707,2017,24402.00537
-Chile,mpletion rate for children of primary school age,Male,Primary education,Total,Total,95.68824,2017,24402.00537
-Chile,mpletion rate for children of primary school age,Total,Primary education,Total,ural,96.33806,2017,24402.00537
-Chile,mpletion rate for children of primary school age,Total,Primary education,Total,rban,96.27994,2017,24402.00537
-Chile,mpletion rate for children of primary school age,Total,Primary education,Total,Total,96.28756,2017,24402.00537
+Chile,Completion rate for children of primary school age,Female,Primary education,Total,Total,96.91707,2017,24402.00537
+Chile,Completion rate for children of primary school age,Male,Primary education,Total,Total,95.68824,2017,24402.00537
+Chile,Completion rate for children of primary school age,Total,Primary education,Total,ural,96.33806,2017,24402.00537
+Chile,Completion rate for children of primary school age,Total,Primary education,Total,rban,96.27994,2017,24402.00537
+Chile,Completion rate for children of primary school age,Total,Primary education,Total,Total,96.28756,2017,24402.00537
 Chile,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,0.9,2017,24402.00537
 Chile,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,1.7,2017,24402.00537
 Chile,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,0.6,2017,24402.00537
 Chile,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,1.5,2017,24402.00537
 Chile,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,1.3,2017,24402.00537
-Chile,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,75.3039,2013,22352.53071
-Chile,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,75.53046,2013,22352.53071
-Chile,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,75.41675,2013,22352.53071
+Chile,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,75.3039,2013,22352.53071
+Chile,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,75.53046,2013,22352.53071
+Chile,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,75.41675,2013,22352.53071
 Chile,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,72.94145,2013,22352.53071
 Chile,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,66.81757,2013,22352.53071
 Chile,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,69.74116,2013,22352.53071
@@ -76,11 +76,11 @@ China,Adjusted net attendance rate for children of primary school age,Male,Prima
 China,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,94.7,2015,12865.80038
 China,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,95,2015,12865.80038
 China,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,94.8,2015,12865.80038
-China,mpletion rate for children of primary school age,Female,Primary education,Total,Total,97,2015,12865.80038
-China,mpletion rate for children of primary school age,Male,Primary education,Total,Total,97.1,2015,12865.80038
-China,mpletion rate for children of primary school age,Total,Primary education,Total,ural,96.2,2015,12865.80038
-China,mpletion rate for children of primary school age,Total,Primary education,Total,rban,98,2015,12865.80038
-China,mpletion rate for children of primary school age,Total,Primary education,Total,Total,97.1,2015,12865.80038
+China,Completion rate for children of primary school age,Female,Primary education,Total,Total,97,2015,12865.80038
+China,Completion rate for children of primary school age,Male,Primary education,Total,Total,97.1,2015,12865.80038
+China,Completion rate for children of primary school age,Total,Primary education,Total,ural,96.2,2015,12865.80038
+China,Completion rate for children of primary school age,Total,Primary education,Total,rban,98,2015,12865.80038
+China,Completion rate for children of primary school age,Total,Primary education,Total,Total,97.1,2015,12865.80038
 China,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,5.2,2015,12865.80038
 China,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,5.2,2015,12865.80038
 China,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,5.3,2015,12865.80038
@@ -96,16 +96,16 @@ Colombia,Adjusted net attendance rate for children of primary school age,Total,P
 Colombia,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,93.9,2015,13330.56204
 Colombia,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,94.3,2015,13330.56204
 Colombia,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,94.2,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Female,Primary education,Total,Total,94.7,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Male,Primary education,Total,Total,91.4,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Lowest,Total,84.4,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Second,Total,92.1,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Middle,Total,95.4,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Fourth,Total,97.6,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Highest,Total,98.3,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Total,ural,86.5,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Total,rban,95.4,2015,13330.56204
-Colombia,mpletion rate for children of primary school age,Total,Primary education,Total,Total,93,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Female,Primary education,Total,Total,94.7,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Male,Primary education,Total,Total,91.4,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Lowest,Total,84.4,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Second,Total,92.1,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Middle,Total,95.4,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Fourth,Total,97.6,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Highest,Total,98.3,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Total,ural,86.5,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Total,rban,95.4,2015,13330.56204
+Colombia,Completion rate for children of primary school age,Total,Primary education,Total,Total,93,2015,13330.56204
 Colombia,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,1.61092,2015,13330.56204
 Colombia,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,2.198655,2015,13330.56204
 Colombia,Out-of-school rate for children of primary school age,Total,Primary education,Lowest,Total,2.551666,2015,13330.56204
@@ -116,9 +116,9 @@ Colombia,Out-of-school rate for children of primary school age,Total,Primary edu
 Colombia,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,2.287648,2015,13330.56204
 Colombia,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,1.755765,2015,13330.56204
 Colombia,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,1.910353,2015,13330.56204
-Colombia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,42.07952,2013,12799.50832
-Colombia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,52.5274,2013,12799.50832
-Colombia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,47.67022,2013,12799.50832
+Colombia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,42.07952,2013,12799.50832
+Colombia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,52.5274,2013,12799.50832
+Colombia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,47.67022,2013,12799.50832
 Colombia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,56.64905,2013,12799.50832
 Colombia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,54.09737,2013,12799.50832
 Colombia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,55.27374,2013,12799.50832
@@ -132,16 +132,16 @@ Costa Rica,Adjusted net attendance rate for children of primary school age,Total
 Costa Rica,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,96.15637,2018,21283.9527
 Costa Rica,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,95.39663,2018,21283.9527
 Costa Rica,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,95.64747,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Female,Primary education,Total,Total,98.63787,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Male,Primary education,Total,Total,97.71503,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Lowest,Total,94.87884,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Second,Total,98.9398,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Middle,Total,98.1723,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Fourth,Total,99.43243,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Highest,Total,100,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Total,ural,97.85191,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Total,rban,98.30724,2018,21283.9527
-Costa Rica,mpletion rate for children of primary school age,Total,Primary education,Total,Total,98.15336,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Female,Primary education,Total,Total,98.63787,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Male,Primary education,Total,Total,97.71503,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Lowest,Total,94.87884,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Second,Total,98.9398,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Middle,Total,98.1723,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Fourth,Total,99.43243,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Highest,Total,100,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Total,ural,97.85191,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Total,rban,98.30724,2018,21283.9527
+Costa Rica,Completion rate for children of primary school age,Total,Primary education,Total,Total,98.15336,2018,21283.9527
 Costa Rica,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,1.33984,2018,21283.9527
 Costa Rica,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,1.349028,2018,21283.9527
 Costa Rica,Out-of-school rate for children of primary school age,Total,Primary education,Lowest,Total,1.264019,2018,21283.9527
@@ -152,47 +152,47 @@ Costa Rica,Out-of-school rate for children of primary school age,Total,Primary e
 Costa Rica,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,1.151127,2018,21283.9527
 Costa Rica,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,1.439879,2018,21283.9527
 Costa Rica,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,1.344544,2018,21283.9527
-Costa Rica,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,56.82473,2013,15542.36837
-Costa Rica,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,63.20804,2013,15542.36837
-Costa Rica,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,60.09143,2013,15542.36837
+Costa Rica,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,56.82473,2013,15542.36837
+Costa Rica,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,63.20804,2013,15542.36837
+Costa Rica,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,60.09143,2013,15542.36837
 Costa Rica,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,69.54931,2013,15542.36837
 Costa Rica,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,67.15937,2013,15542.36837
 Costa Rica,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,68.29535,2013,15542.36837
-Czechia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,77.39211,2015,33909.30928
-Czechia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.41916,2015,33909.30928
-Czechia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,78,2019,42857.22938
+Czechia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,77.39211,2015,33909.30928
+Czechia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.41916,2015,33909.30928
+Czechia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,78,2019,42857.22938
 Czechia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,97.97584,2016,36101.28559
 Czechia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,96.13597,2016,36101.28559
 Czechia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,97.03947,2016,36101.28559
-Germany,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,76.02794,2015,47609.55716
-Germany,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,77.33704,2015,47609.55716
-Germany,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,75,2019,55652.87782
+Germany,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,76.02794,2015,47609.55716
+Germany,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,77.33704,2015,47609.55716
+Germany,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,75,2019,55652.87782
 Germany,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,96.17979,2016,50579.48372
 Germany,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,94.80321,2016,50579.48372
 Germany,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,94.50745,2016,50579.48372
-Spain,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,64.85658,2015,34929.20969
-Spain,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,69.94062,2015,34929.20969
-Spain,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,65,2019,41721.2222
+Spain,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,64.85658,2015,34929.20969
+Spain,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,69.94062,2015,34929.20969
+Spain,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,65,2019,41721.2222
 Spain,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,97.57467,2016,37313.63491
 Spain,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,95.67968,2016,37313.63491
 Spain,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,96.56866,2016,37313.63491
-Finland,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,85.18339,2015,42490.21111
-Finland,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.42611,2015,42490.21111
-Finland,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,78,2019,50321.58885
+Finland,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,85.18339,2015,42490.21111
+Finland,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.42611,2015,42490.21111
+Finland,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,78,2019,50321.58885
 Finland,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,98.92597,2016,44934.4882
 Finland,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,97.65054,2016,44934.4882
 Finland,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,98.28993,2016,44934.4882
-France,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,57.04231,2015,40829.89332
-France,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,59.02802,2015,40829.89332
-France,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,57,2019,48800.18585
+France,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,57.04231,2015,40829.89332
+France,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,59.02802,2015,40829.89332
+France,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,57,2019,48800.18585
 France,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,94.67617,2016,42855.94456
 France,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,92.79399,2016,42855.94456
 France,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,93.71542,2016,42855.94456
-United Kingdom,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,83,2019,49070.33313
+United Kingdom,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,83,2019,49070.33313
 United Kingdom,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,96.83,2016,44610.56565
-Hungary,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,74.55678,2015,26806.59529
-Hungary,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,75.25922,2015,26806.59529
-Hungary,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,74,2019,33514.94181
+Hungary,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,74.55678,2015,26806.59529
+Hungary,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,75.25922,2015,26806.59529
+Hungary,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,74,2019,33514.94181
 Hungary,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,97.744,2016,27947.63758
 Hungary,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,96.54117,2016,27947.63758
 Hungary,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,97.13811,2016,27947.63758
@@ -206,16 +206,16 @@ Indonesia,Adjusted net attendance rate for children of primary school age,Total,
 Indonesia,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,92.80408,2017,11050.88237
 Indonesia,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,94.1811,2017,11050.88237
 Indonesia,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,93.46085,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Female,Primary education,Total,Total,97.64319,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Male,Primary education,Total,Total,95.69702,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Lowest,Total,91.37315,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Second,Total,97.20703,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Middle,Total,96.9033,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Fourth,Total,97.83305,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Highest,Total,99.51337,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Total,ural,95.40079,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Total,rban,97.76572,2017,11050.88237
-Indonesia,mpletion rate for children of primary school age,Total,Primary education,Total,Total,96.63795,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Female,Primary education,Total,Total,97.64319,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Male,Primary education,Total,Total,95.69702,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Lowest,Total,91.37315,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Second,Total,97.20703,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Middle,Total,96.9033,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Fourth,Total,97.83305,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Highest,Total,99.51337,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Total,ural,95.40079,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Total,rban,97.76572,2017,11050.88237
+Indonesia,Completion rate for children of primary school age,Total,Primary education,Total,Total,96.63795,2017,11050.88237
 Indonesia,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,1.233953,2017,11050.88237
 Indonesia,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,1.708545,2017,11050.88237
 Indonesia,Out-of-school rate for children of primary school age,Total,Primary education,Lowest,Total,3.313284,2017,11050.88237
@@ -226,9 +226,9 @@ Indonesia,Out-of-school rate for children of primary school age,Total,Primary ed
 Indonesia,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,2.017482,2017,11050.88237
 Indonesia,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,0.8853658,2017,11050.88237
 Indonesia,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,1.477518,2017,11050.88237
-Indonesia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,17.84914,2015,10364.39728
-Indonesia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,17.24821,2015,10364.39728
-Indonesia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,17.53671,2015,10364.39728
+Indonesia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,17.84914,2015,10364.39728
+Indonesia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,17.24821,2015,10364.39728
+Indonesia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,17.53671,2015,10364.39728
 Indonesia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,70.90413,2011,9213.212404
 Indonesia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,61.53024,2011,9213.212404
 Indonesia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,66.2271,2011,9213.212404
@@ -242,16 +242,16 @@ India,Adjusted net attendance rate for children of primary school age,Total,Prim
 India,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,94.7,2016,5789.404696
 India,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,96.6,2016,5789.404696
 India,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,95.2,2016,5789.404696
-India,mpletion rate for children of primary school age,Female,Primary education,Total,Total,91.347,2016,5789.404696
-India,mpletion rate for children of primary school age,Male,Primary education,Total,Total,91.546,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Lowest,Total,80.299,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Second,Total,91.054,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Middle,Total,94.239,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Fourth,Total,96.361,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Highest,Total,98.532,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Total,ural,90.558,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Total,rban,93.445,2016,5789.404696
-India,mpletion rate for children of primary school age,Total,Primary education,Total,Total,91.451,2016,5789.404696
+India,Completion rate for children of primary school age,Female,Primary education,Total,Total,91.347,2016,5789.404696
+India,Completion rate for children of primary school age,Male,Primary education,Total,Total,91.546,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Lowest,Total,80.299,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Second,Total,91.054,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Middle,Total,94.239,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Fourth,Total,96.361,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Highest,Total,98.532,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Total,ural,90.558,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Total,rban,93.445,2016,5789.404696
+India,Completion rate for children of primary school age,Total,Primary education,Total,Total,91.451,2016,5789.404696
 India,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,6.1,2016,5789.404696
 India,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,5.8,2016,5789.404696
 India,Out-of-school rate for children of primary school age,Total,Primary education,Lowest,Total,12.6,2016,5789.404696
@@ -262,28 +262,28 @@ India,Out-of-school rate for children of primary school age,Total,Primary educat
 India,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,6.7,2016,5789.404696
 India,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,3.9,2016,5789.404696
 India,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,5.9,2016,5789.404696
-India,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,44,2017,6128.784094
-India,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,44,2017,6128.784094
-India,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,43.6,2017,6128.784094
+India,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,44,2017,6128.784094
+India,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,44,2017,6128.784094
+India,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,43.6,2017,6128.784094
 India,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,47,2017,6128.784094
 India,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,45,2017,6128.784094
 India,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,46.3,2017,6128.784094
 Israel,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,93.44715,2016,37854.8453
 Israel,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,88.75941,2016,37854.8453
 Israel,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,91.02271,2016,37854.8453
-Italy,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,64.41415,2015,37206.33182
-Italy,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,72.81792,2015,37206.33182
-Italy,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,73,2019,44376.17444
+Italy,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,64.41415,2015,37206.33182
+Italy,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,72.81792,2015,37206.33182
+Italy,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,73,2019,44376.17444
 Italy,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,98.73246,2016,40267.22262
 Italy,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,97.0243,2016,40267.22262
 Italy,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,97.8608,2016,40267.22262
-Lithuania,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,81.89937,2015,28834.45752
-Lithuania,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.40758,2015,28834.45752
-Lithuania,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,81,2019,38540.7455
+Lithuania,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,81.89937,2015,28834.45752
+Lithuania,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.40758,2015,28834.45752
+Lithuania,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,81,2019,38540.7455
 Lithuania,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,97.94287,2016,30925.15178
 Lithuania,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,96.64123,2016,30925.15178
 Lithuania,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,97.26508,2016,30925.15178
-Latvia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,85,2019,31893.84682
+Latvia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,85,2019,31893.84682
 Latvia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,99.3776,2016,26724.46
 Latvia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,99.0031,2016,26724.46
 Latvia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,99.19672,2016,26724.46
@@ -292,68 +292,68 @@ Mexico,Adjusted net attendance rate for children of primary school age,Male,Prim
 Mexico,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,98,2018,20354.82951
 Mexico,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,98.6,2018,20354.82951
 Mexico,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,98.8,2018,20354.82951
-Mexico,mpletion rate for children of primary school age,Female,Primary education,Total,Total,98.3,2018,20354.82951
-Mexico,mpletion rate for children of primary school age,Male,Primary education,Total,Total,97.5,2018,20354.82951
-Mexico,mpletion rate for children of primary school age,Total,Primary education,Total,ural,97.2,2018,20354.82951
-Mexico,mpletion rate for children of primary school age,Total,Primary education,Total,rban,98.1,2018,20354.82951
-Mexico,mpletion rate for children of primary school age,Total,Primary education,Total,Total,97.9,2018,20354.82951
+Mexico,Completion rate for children of primary school age,Female,Primary education,Total,Total,98.3,2018,20354.82951
+Mexico,Completion rate for children of primary school age,Male,Primary education,Total,Total,97.5,2018,20354.82951
+Mexico,Completion rate for children of primary school age,Total,Primary education,Total,ural,97.2,2018,20354.82951
+Mexico,Completion rate for children of primary school age,Total,Primary education,Total,rban,98.1,2018,20354.82951
+Mexico,Completion rate for children of primary school age,Total,Primary education,Total,Total,97.9,2018,20354.82951
 Mexico,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,1.1,2018,20354.82951
 Mexico,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,1.2,2018,20354.82951
 Mexico,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,1.6,2018,20354.82951
 Mexico,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,1,2018,20354.82951
 Mexico,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,1.2,2018,20354.82951
-Mexico,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,69.26304,2013,17461.79826
-Mexico,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,69.65967,2013,17461.79826
-Mexico,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,69.46268,2013,17461.79826
+Mexico,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,69.26304,2013,17461.79826
+Mexico,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,69.65967,2013,17461.79826
+Mexico,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,69.46268,2013,17461.79826
 Mexico,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,60.35966,2013,17461.79826
 Mexico,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,54.80155,2013,17461.79826
 Mexico,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,57.51,2013,17461.79826
-Netherlands,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,81.57301,2015,50288.35283
-Netherlands,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,84.36688,2015,50288.35283
-Netherlands,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,84,2019,59003.8648
+Netherlands,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,81.57301,2015,50288.35283
+Netherlands,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,84.36688,2015,50288.35283
+Netherlands,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,84,2019,59003.8648
 Netherlands,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,99.40024,2016,52289.40429
 Netherlands,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,97.99961,2016,52289.40429
 Netherlands,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,98.69016,2016,52289.40429
-Norway,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,70.34596,2015,60352.71696
-Norway,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,70.76894,2015,60352.71696
-Norway,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,65,2019,66797.86313
-New Zealand,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,58.3714,2015,37246.95119
-New Zealand,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,58.91403,2015,37246.95119
-New Zealand,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,56,2019,44973.23087
+Norway,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,70.34596,2015,60352.71696
+Norway,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,70.76894,2015,60352.71696
+Norway,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,65,2019,66797.86313
+New Zealand,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,58.3714,2015,37246.95119
+New Zealand,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,58.91403,2015,37246.95119
+New Zealand,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,56,2019,44973.23087
 New Zealand,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,92.519,2016,39719.04285
 New Zealand,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,87.80289,2016,39719.04285
 New Zealand,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,89.97345,2016,39719.04285
-Poland,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,80.57959,2015,26534.72321
-Poland,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.07163,2015,26534.72321
-Poland,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,73,2019,33427.50344
+Poland,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,80.57959,2015,26534.72321
+Poland,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.07163,2015,26534.72321
+Poland,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,73,2019,33427.50344
 Poland,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,98.412,2016,27985.34002
 Poland,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,97.60906,2016,27985.34002
 Poland,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,98.00746,2016,27985.34002
-Portugal,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,80.37509,2015,29660.84591
-Portugal,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,83.09715,2015,29660.84591
-Portugal,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,74,2019,36171.96485
+Portugal,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,80.37509,2015,29660.84591
+Portugal,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,83.09715,2015,29660.84591
+Portugal,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,74,2019,36171.96485
 Portugal,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,97.25408,2016,31607.61019
 Portugal,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,96.76062,2016,31607.61019
 Portugal,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,97.00729,2016,31607.61019
-Russian Federation,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,88.98466,2015,24085.31286
-Russian Federation,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,88.89845,2015,24085.31286
-Russian Federation,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,91,2019,29967.11935
+Russian Federation,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,88.98466,2015,24085.31286
+Russian Federation,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,88.89845,2015,24085.31286
+Russian Federation,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,91,2019,29967.11935
 Russian Federation,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,99.4102,2016,24128.08181
 Russian Federation,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,98.80993,2016,24128.08181
 Russian Federation,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,99.10516,2016,24128.08181
-Slovakia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,71,2019,31971.86739
+Slovakia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,71,2019,31971.86739
 Slovakia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,94.13853,2016,29645.70126
 Slovakia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,92.7874,2016,29645.70126
 Slovakia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,93.44578,2016,29645.70126
-Slovenia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,75.47718,2015,31631.83845
-Slovenia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,75.48761,2015,31631.83845
-Slovenia,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,75.48252,2015,31631.83845
+Slovenia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,75.47718,2015,31631.83845
+Slovenia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,75.48761,2015,31631.83845
+Slovenia,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,75.48252,2015,31631.83845
 Slovenia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,97.42834,2016,33942.76804
 Slovenia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,95.27285,2016,33942.76804
 Slovenia,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,96.3191,2016,33942.76804
-Sweden,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,74.98715,2015,49103.06178
-Sweden,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,74.86004,2015,49103.06178
-Sweden,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,74,2019,54598.78185
+Sweden,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,74.98715,2015,49103.06178
+Sweden,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,74.86004,2015,49103.06178
+Sweden,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,74,2019,54598.78185
 Sweden,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,98.71241,2016,50430.17454
 Sweden,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,97.48444,2016,50430.17454
 Sweden,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,98.07445,2016,50430.17454
@@ -367,16 +367,16 @@ Turkey,Adjusted net attendance rate for children of primary school age,Total,Pri
 Turkey,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,95.56184,2013,22373.13655
 Turkey,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,95.39973,2013,22373.13655
 Turkey,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,95.43694,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Female,Primary education,Total,Total,97.85372,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Male,Primary education,Total,Total,99.02528,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Lowest,Total,96.32681,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Second,Total,98.04408,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Middle,Total,98.86731,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Fourth,Total,99.55262,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Highest,Total,99.91217,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Total,ural,96.49441,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Total,rban,99.0145,2013,22373.13655
-Turkey,mpletion rate for children of primary school age,Total,Primary education,Total,Total,98.4263,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Female,Primary education,Total,Total,97.85372,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Male,Primary education,Total,Total,99.02528,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Lowest,Total,96.32681,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Second,Total,98.04408,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Middle,Total,98.86731,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Fourth,Total,99.55262,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Highest,Total,99.91217,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Total,ural,96.49441,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Total,rban,99.0145,2013,22373.13655
+Turkey,Completion rate for children of primary school age,Total,Primary education,Total,Total,98.4263,2013,22373.13655
 Turkey,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,2.5,2013,22373.13655
 Turkey,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,5.1,2013,22373.13655
 Turkey,Out-of-school rate for children of primary school age,Total,Primary education,Lowest,Total,7,2013,22373.13655
@@ -387,12 +387,12 @@ Turkey,Out-of-school rate for children of primary school age,Total,Primary educa
 Turkey,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,4,2013,22373.13655
 Turkey,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,3.8,2013,22373.13655
 Turkey,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,3.8,2013,22373.13655
-Turkey,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,56.37688,2015,25855.91268
-Turkey,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,57.78831,2015,25855.91268
-Turkey,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,70,2019,27144.22356
-United States,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,77.79763,2015,56731.07461
-United States,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.52396,2015,56731.07461
-United States,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,77,2019,65055.78537
+Turkey,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,56.37688,2015,25855.91268
+Turkey,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,57.78831,2015,25855.91268
+Turkey,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,70,2019,27144.22356
+United States,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Female,Primary education,Total,Total,77.79763,2015,56731.07461
+United States,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Male,Primary education,Total,Total,79.52396,2015,56731.07461
+United States,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,77,2019,65055.78537
 United States,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Female,Primary education,Total,Total,96.83184,2016,57846.27428
 United States,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Male,Primary education,Total,Total,95.43481,2016,57846.27428
 United States,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,96.09408,2016,57846.27428
@@ -406,16 +406,16 @@ South Africa,Adjusted net attendance rate for children of primary school age,Tot
 South Africa,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,ural,98.41961,2016,12827.60358
 South Africa,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,rban,98.49752,2016,12827.60358
 South Africa,Adjusted net attendance rate for children of primary school age,Total,Primary education,Total,Total,98.46198,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Female,Primary education,Total,Total,97.92232,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Male,Primary education,Total,Total,94.72361,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Lowest,Total,91.34882,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Second,Total,96.86778,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Middle,Total,96.63729,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Fourth,Total,98.81658,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Highest,Total,99.00262,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Total,ural,94.75239,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Total,rban,97.39242,2016,12827.60358
-South Africa,mpletion rate for children of primary school age,Total,Primary education,Total,Total,96.30945,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Female,Primary education,Total,Total,97.92232,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Male,Primary education,Total,Total,94.72361,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Lowest,Total,91.34882,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Second,Total,96.86778,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Middle,Total,96.63729,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Fourth,Total,98.81658,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Highest,Total,99.00262,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Total,ural,94.75239,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Total,rban,97.39242,2016,12827.60358
+South Africa,Completion rate for children of primary school age,Total,Primary education,Total,Total,96.30945,2016,12827.60358
 South Africa,Out-of-school rate for children of primary school age,Female,Primary education,Total,Total,0.8,2016,12827.60358
 South Africa,Out-of-school rate for children of primary school age,Male,Primary education,Total,Total,1.2,2016,12827.60358
 South Africa,Out-of-school rate for children of primary school age,Total,Primary education,Lowest,Total,1.8,2016,12827.60358
@@ -426,5 +426,5 @@ South Africa,Out-of-school rate for children of primary school age,Total,Primary
 South Africa,Out-of-school rate for children of primary school age,Total,Primary education,Total,ural,1.1,2016,12827.60358
 South Africa,Out-of-school rate for children of primary school age,Total,Primary education,Total,rban,1,2016,12827.60358
 South Africa,Out-of-school rate for children of primary school age,Total,Primary education,Total,Total,1,2016,12827.60358
-South Africa,roportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,14.9,2013,12616.60638
+South Africa,Proportion of students at the end of primary achieving at least a minimum proficiency level in mathematics,Total,Primary education,Total,Total,14.9,2013,12616.60638
 South Africa,Proportion of students at the end of primary achieving at least a minimum proficiency level in reading,Total,Primary education,Total,Total,36.1,2013,12616.60638
